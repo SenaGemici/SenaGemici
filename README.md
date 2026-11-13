@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sena Gemicioğlu</h1>
+<h1 align="center">Hi 👋, I'm Sena Gemicioglu</h1>
 <h3 align="center">Junior Data Analyst · Junior Veri Analisti</h3>
 
 <p align="center">
