@@ -8,13 +8,11 @@
   <a href="https://kaggle.com/olisadep"><img src="https://img.shields.io/badge/Kaggle-olisadep-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
-I'm a **Statistics and Computer Science graduate** (Bilecik Şeyh Edebali University, 2026, ranked 2nd in the
-department). I clean messy data, analyse it with **SQL and Python**, and turn the results into **Power BI dashboards**
+I'm a **Statistics and Computer Science graduate** . I clean messy data, analyse it with **SQL and Python**, and turn the results into **Power BI dashboards**
 and clear business recommendations. AI tools such as **Claude Code and Codex** are part of how I analyse and build.
 
 - 📊 Open to **junior data analyst** roles
 - 🔬 Interested in sales and e-commerce analytics, forecasting and NLP
-- 🇹🇷 Türkçe ve İngilizce (B1) çalışabilirim
 
 ### ⭐ Featured projects
 
